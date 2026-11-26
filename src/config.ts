@@ -1,8 +1,8 @@
 export const siteConfig = {
-  name: "Jangwoohyun",
-  title: "Senior Software Engineer",
+  name: "장우현",
+  title: "데이터 분석가",
   description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  accentColor: "#a8f0c0",
   social: {
     email: "your-email@example.com",
     linkedin: "https://linkedin.com/in/yourprofile",
