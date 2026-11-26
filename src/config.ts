@@ -9,10 +9,10 @@ export const siteConfig = {
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
   },
-  aboutMe:
+  자기소개:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
+  학과: [
     {
       name: "AI Dev Roundup Newsletter",
       description:
@@ -35,7 +35,7 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
   ],
-  experience: [
+  이수과목: [
     {
       company: "Tech Company",
       title: "Senior Software Engineer",
@@ -67,7 +67,7 @@ export const siteConfig = {
       ],
     },
   ],
-  education: [
+  앞으로 나아가고자 하는 길: [
     {
       school: "University Name",
       degree: "Bachelor of Science in Computer Science",
